@@ -1,0 +1,2 @@
+Используется UDp(из  WireShark User Datagram Protocol, Src Port: 123, Dst Port: 123)
+Transmit Timestamp: Dec 20, 2024 00:00:29.967997934 UTC
